@@ -1,0 +1,180 @@
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.LoginIndex.resources
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.Properties.Resources.resources
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.csproj.CopyComplete
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\EntityFramework.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\EntityFramework.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.YeniSinavIndex.resources
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.ÖgrenciIndex.resources
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.ÖgretmenIndex.resources
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\beyza\Desktop\Sınav Sistemi Son\SinavSistemiSon\obj\Debug\SinavSistemiSon.SoruDuzenleIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\EntityFramework.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\EntityFramework.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.LoginIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.Properties.Resources.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.SoruDuzenleIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.YeniSinavIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.ÖgrenciIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.ÖgretmenIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.csproj.CopyComplete
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\SinavSistemiSon\obj\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\beyza\Desktop\SinavSistemiSon\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\EntityFramework.dll
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\EntityFramework.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.exe.config
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.LoginIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.Properties.Resources.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.SoruDuzenleIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.YeniSinavIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.ÖgrenciIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.ÖgretmenIndex.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.csproj.CopyComplete
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.exe
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.pdb
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.EskiSinavlar.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.GenelOrtalama.resources
+C:\Users\beyza\Desktop\SinavSistemiSon2\obj\Debug\SinavSistemiSon.exe.licenses

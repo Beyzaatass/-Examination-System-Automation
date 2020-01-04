@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SinavSistemiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tbl_İstatistik">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SoruID" Type="int" />
+    <Property Name="SınavID" Type="int" />
+    <Property Name="Durum" Type="bit" />
+  </EntityType>
+  <EntityType Name="Tbl_Kategoriler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="GenelOran" Type="float" />
+  </EntityType>
+  <EntityType Name="Tbl_Kisi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="kullaniciAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="sifre" Type="nvarchar" MaxLength="8" />
+    <Property Name="rolID" Type="int" />
+  </EntityType>
+  <EntityType Name="Tbl_KisiRol">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="rolAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Sinav">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" />
+    <Property Name="SınavNotu" Type="int" />
+    <Property Name="KisiID" Type="int" />
+  </EntityType>
+  <EntityType Name="Tbl_Sorular">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Soru" Type="nvarchar" MaxLength="150" />
+    <Property Name="Secenek1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Secenek2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Secenek3" Type="nvarchar" MaxLength="50" />
+    <Property Name="DogruSecenek" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="KategoriID" Type="int" />
+    <Property Name="SoruResmi" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SinavSistemi.dbo.View_1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="View_1">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Expr1" />
+      <PropertyRef Name="Expr4" />
+      <PropertyRef Name="Expr5" />
+      <PropertyRef Name="Expr6" />
+    </Key>
+    <Property Name="rolID" Type="int" />
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="KategoriID" Type="int" />
+    <Property Name="Expr1" Type="int" Nullable="false" />
+    <Property Name="Expr2" Type="int" />
+    <Property Name="Expr3" Type="int" />
+    <Property Name="Expr4" Type="int" Nullable="false" />
+    <Property Name="Expr5" Type="int" Nullable="false" />
+    <Property Name="KisiID" Type="int" />
+    <Property Name="Expr6" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SinavSistemiModelStoreContainer">
+    <EntitySet Name="Tbl_İstatistik" EntityType="Self.Tbl_İstatistik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Kategoriler" EntityType="Self.Tbl_Kategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Kisi" EntityType="Self.Tbl_Kisi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_KisiRol" EntityType="Self.Tbl_KisiRol" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Sinav" EntityType="Self.Tbl_Sinav" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Sorular" EntityType="Self.Tbl_Sorular" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="View_1" EntityType="Self.View_1" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [View_1].[rolID] AS [rolID], 
+    [View_1].[ID] AS [ID], 
+    [View_1].[KategoriID] AS [KategoriID], 
+    [View_1].[Expr1] AS [Expr1], 
+    [View_1].[Expr2] AS [Expr2], 
+    [View_1].[Expr3] AS [Expr3], 
+    [View_1].[Expr4] AS [Expr4], 
+    [View_1].[Expr5] AS [Expr5], 
+    [View_1].[KisiID] AS [KisiID], 
+    [View_1].[Expr6] AS [Expr6]
+    FROM [dbo].[View_1] AS [View_1]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

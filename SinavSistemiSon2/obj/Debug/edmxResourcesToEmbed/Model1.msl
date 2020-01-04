@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SinavSistemiModelStoreContainer" CdmEntityContainer="SinavSistemiEntities">
+    <EntitySetMapping Name="Tbl_İstatistik">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_İstatistik">
+        <MappingFragment StoreEntitySet="Tbl_İstatistik">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SoruID" ColumnName="SoruID" />
+          <ScalarProperty Name="SınavID" ColumnName="SınavID" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Kategoriler">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_Kategoriler">
+        <MappingFragment StoreEntitySet="Tbl_Kategoriler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KategoriAdi" ColumnName="KategoriAdi" />
+          <ScalarProperty Name="GenelOran" ColumnName="GenelOran" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Kisi">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_Kisi">
+        <MappingFragment StoreEntitySet="Tbl_Kisi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="kullaniciAdi" ColumnName="kullaniciAdi" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="rolID" ColumnName="rolID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_KisiRol">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_KisiRol">
+        <MappingFragment StoreEntitySet="Tbl_KisiRol">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="rolAdi" ColumnName="rolAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Sinav">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_Sinav">
+        <MappingFragment StoreEntitySet="Tbl_Sinav">
+          <ScalarProperty Name="KisiID" ColumnName="KisiID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="SınavNotu" ColumnName="SınavNotu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Sorular">
+      <EntityTypeMapping TypeName="SinavSistemiModel.Tbl_Sorular">
+        <MappingFragment StoreEntitySet="Tbl_Sorular">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Soru" ColumnName="Soru" />
+          <ScalarProperty Name="Secenek1" ColumnName="Secenek1" />
+          <ScalarProperty Name="Secenek2" ColumnName="Secenek2" />
+          <ScalarProperty Name="Secenek3" ColumnName="Secenek3" />
+          <ScalarProperty Name="DogruSecenek" ColumnName="DogruSecenek" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="SoruResmi" ColumnName="SoruResmi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="View_1">
+      <EntityTypeMapping TypeName="SinavSistemiModel.View_1">
+        <MappingFragment StoreEntitySet="View_1">
+          <ScalarProperty Name="Expr6" ColumnName="Expr6" />
+          <ScalarProperty Name="KisiID" ColumnName="KisiID" />
+          <ScalarProperty Name="rolID" ColumnName="rolID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="Expr1" ColumnName="Expr1" />
+          <ScalarProperty Name="Expr2" ColumnName="Expr2" />
+          <ScalarProperty Name="Expr3" ColumnName="Expr3" />
+          <ScalarProperty Name="Expr4" ColumnName="Expr4" />
+          <ScalarProperty Name="Expr5" ColumnName="Expr5" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
